@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< From PCC with love >>>",
-                        "Chúc cô gái xinhdep, dangyeu nhất trên đời giáng sinh vui vẻ nhaa, hãy luôn tự tin vào bản thân để hoàn thành được nguyện vọng của mình nhé, anh sẽ luôn ở đây sẵn sàng giúp đỡ khi em cần, hihi, mãi yeu <3",
+                        "Chúc cô gái xinhdep, dangyeu nhất trên đời giáng sinh vui vẻ nhaa, hãy luôn tự tin vào bản thân để hoàn thành được nguyện vọng của mình nhé, anh sẽ luôn ở đây cổ vũ, động viên em và sẵn sàng giúp đỡ khi em cần, hihi, mãi yeu <3",
                         ],
                         typeSpeed: 50,
                         startDelay: 500,
